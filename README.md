@@ -22,12 +22,19 @@
 |테스트1|테스트2|테스트3|테스트3|
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/kakao API-#FFCD00?style=for-the-badge&logo=kakao&logoColor=white>
+
+<img src="https://img.shields.io/badge/OpenAI API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+Front : <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>, <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>, <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>, React Native
+Back : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+API : <img src="https://img.shields.io/badge/kakao API-#FFCD00?style=for-the-badge&logo=kakao&logoColor=white>
+및 네이버 API, Meta Graph API, Open AI
+DB : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+ETC : Github, Discord
 ## Tools
 
 
