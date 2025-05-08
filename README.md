@@ -19,11 +19,16 @@ LG U+ WHY NOT SW CAMP 6기
 
 |조선영|유지선|이찬웅|윤상현|
 |------|----|----|----|
-|테스트1|테스트2|<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPSEw_sWyY5KgP85cF-fNJbxc4F0TXdZ8TkP3JTnGyIdwaGy_uVR1J4iwx6i2mPSc29QtFNO9IDQ6AFf-4PcYkmnkCXAu264TNS0FtYtdcmhf1oJ4G7YQ63X_PdMEd4Ifrh_DeXu5c-g/s800/computer_man1_smile.png"|[수염](https://blogger.googleusercontent.com/img/b/R2vZ2xl/AVvXsEg6Y9X-BaKA14knNTawZTqd0lx2cQorQplhyphenhyphenQTHmAbP7oxp6J2PaIiBwtGPbie-EXePVY8_lTiY5IJJhpLfiC47mrnkMeCu0TSSZ_hfB-RhkLMFTXLnaCtkOfPcVW2VYycwqyNy_kWBF64q/s800/hige_kitanai.png)|
+|테스트1|테스트2|3|4|
 | DB ERD 서비스 플로우, 산출물 관리 | 발표 자료 제작, 데이터 추출 및 처리 | 피그마 디자인, 서비스 구현 및 개발 | PPT 작성, 서비스 구현 및 개발 |
 |[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/yujiseon-git)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/whathefu)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sanghyeom)|
 
 
+![Image](https://github.com/user-attachments/assets/5efe095c-f5fe-45c2-88a9-2e610258a216)
+![Image](https://github.com/user-attachments/assets/4f3faf7b-1ece-4530-ba56-0d1de09548e8)
+
+![Image](https://github.com/user-attachments/assets/cd76087e-744a-4e2a-9da6-0ea18bd19ea3)
+![Image](https://github.com/user-attachments/assets/700d5ad5-b8c0-464a-95dc-ac9e27ff917a)
 
 ## 🛠 Tech Stack
 
