@@ -51,7 +51,7 @@ LG U+ WHY NOT SW CAMP 6기
 
 ## 프로젝트 기획 방향
 <details>
-<summary> 프로젝트 목적</summary>
+<summary><b> 프로젝트 목적</b></summary>
 <br/>
 온라인에서 다양한 플랫폼(네이버 스토어, 인스타그램 등)을 운영하는 개인 자영업자를 대상으로, 각 플랫폼별 성과를 분석하고, 고객 반응에 기반한 마케팅 문구를 자동 추천 및 카카오톡으로 발송할 수 있는 플랫폼을 구축한다.
 사용자는 플랫폼 가입 시 자신의 채널(스토어) 정보를 등록하며, 이에 따라 플랫폼은 홍보 메시지 추천, 발송, 반응 분석까지 자동화한다.
@@ -119,6 +119,12 @@ ex) 네이버에선 이 제품이 잘 팔리고 이 연령대가 많다.
 ex) 네이버 스토어, 인스타 스토어 등
 
 <img src="https://github.com/user-attachments/assets/435f0fa1-72e4-487f-903a-f15c2090d5c0" alt="[회원가입]">
+</details>
+
+<details>
+<summary> DB - ERD </summary>
+<br/>
+<img src="https://github.com/user-attachments/assets/92563603-f362-40bd-a03a-5b6edea600a6" alt="[출처: ERD]">
 </details>
 
 <details>
