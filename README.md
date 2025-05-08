@@ -28,7 +28,11 @@ LG U+ WHY NOT SW CAMP 6기
 |조선영|유지선|이찬웅|윤상현|
 |------|----|----|----|
 |<img src="https://github.com/user-attachments/assets/cd76087e-744a-4e2a-9da6-0ea18bd19ea3" width="100" height="130"/>|<img src="https://github.com/user-attachments/assets/4f3faf7b-1ece-4530-ba56-0d1de09548e8" width="100" height="130"/>|<img src="https://github.com/user-attachments/assets/5efe095c-f5fe-45c2-88a9-2e610258a216" width="100" height="130"/>|<img src="https://github.com/user-attachments/assets/700d5ad5-b8c0-464a-95dc-ac9e27ff917a" width="100" height="130"/>|
+<<<<<<< HEAD
 | DB ERD 서비스 플로우, 산출물 관리 | 발표 자료 제작, 데이터 추출 및 처리 | 피그마 디자인, 서비스 구현 및 개발 | PPT 작성, 서비스 구현 및 개발 |
+=======
+| DB ERD 서비스 플로우, 산출물 관리 | 피그마 디자인, 서비스 구현 및 개발 | 발표 자료 제작, 데이터 추출 및 처리 | PPT 작성, 서비스 구현 및 개발 |
+>>>>>>> sang
 |[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/yujiseon-git)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/whathefu)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sanghyeom)|
 
 
@@ -55,7 +59,7 @@ LG U+ WHY NOT SW CAMP 6기
 <br/>
 온라인에서 다양한 플랫폼(네이버 스토어, 인스타그램 등)을 운영하는 개인 자영업자를 대상으로, 각 플랫폼별 성과를 분석하고, 고객 반응에 기반한 마케팅 문구를 자동 추천 및 카카오톡으로 발송할 수 있는 플랫폼을 구축한다.
 <br/>
-사용자는 플랫폼 가입 시 자신의 채널(스토어) 정보를 등록하며, 이에 따라 플랫폼은 홍보 메시지 추천, 발송, 반응 분석까지 자동화한다.
+플랫폼 가입시 사용자 자신의 채널(스토어) 정보를 등록하며, 이에 따라 홍보 메시지 추천, 발송, 반응 분석까지 자동화한다.
 <br/>
 추가 정보 등록은 개인 정보 수정에서 추가할 수 있다.
 </details>
