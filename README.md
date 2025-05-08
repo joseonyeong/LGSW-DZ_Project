@@ -71,7 +71,7 @@ LG U+ WHY NOT SW CAMP 6기
 <summary>플랫폼 타겟층</summary>
 - 플랫폼을 운영 중인 자영업자
    (자영업자를 타겟으로 한 해당 서비스는 매년 증가하는 자영업자 수를 대상으로 기획했다.)
-![Image](https://github.com/user-attachments/assets/99d51410-9fc1-4c97-9cdc-dddea4c74bc8)
+<img src="https://github.com/user-attachments/assets/99d51410-9fc1-4c97-9cdc-dddea4c74bc8" alt="[출처: 지표누리 e-나라지표]">
 </details>
 
 
