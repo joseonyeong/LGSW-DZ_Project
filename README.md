@@ -11,15 +11,19 @@ LG U+ WHY NOT SW CAMP 6기
 온라인에서 다양한 플랫폼(네이버 스토어, 인스타그램 등)을 운영하는 **개인 자영업자**를 대상으로,
 각 플랫폼별 성과를 분석하고, 고객 반응에 기반한 **마케팅 문구**를 **자동 추천** 및 **카카오톡으로 발송**할 수 있는 플랫폼을 구축한다.
 
-## 프로젝트 수행기간
+## 프로젝트 수행기간 및 일정
 
-25년 05월 07일 ~ 25년 05월 09일
+25년 05월 01일 ~ 25년 05월 09일
+▪ 2025.05.01. - 2025.05.06. 아이디어 회의
+▪ 2025.05.07. 업무 분장 및 기획안 작성, 요구사항정의서 작성, 디자인 구성
+▪ 2025.05.08. 인터페이스 제작 및 DB 제작, 발표자료 제작, (전체) 1차 모임
+▪ 2025.05.09. 최종 발표
 
 ## 팀원 소개 
 
 |조선영|유지선|이찬웅|윤상현|
 |------|----|----|----|
-|<img src="https://github.com/user-attachments/assets/cd76087e-744a-4e2a-9da6-0ea18bd19ea3" width="100" height="160"/>|<img src="https://github.com/user-attachments/assets/4f3faf7b-1ece-4530-ba56-0d1de09548e8" width="100" height="160"/>|<img src="https://github.com/user-attachments/assets/5efe095c-f5fe-45c2-88a9-2e610258a216" width="100" height="160"/>|<img src="https://github.com/user-attachments/assets/700d5ad5-b8c0-464a-95dc-ac9e27ff917a" width="100" height="160"/>|
+|<img src="https://github.com/user-attachments/assets/cd76087e-744a-4e2a-9da6-0ea18bd19ea3" width="100" height="130"/>|<img src="https://github.com/user-attachments/assets/4f3faf7b-1ece-4530-ba56-0d1de09548e8" width="100" height="130"/>|<img src="https://github.com/user-attachments/assets/5efe095c-f5fe-45c2-88a9-2e610258a216" width="100" height="130"/>|<img src="https://github.com/user-attachments/assets/700d5ad5-b8c0-464a-95dc-ac9e27ff917a" width="100" height="130"/>|
 | DB ERD 서비스 플로우, 산출물 관리 | 발표 자료 제작, 데이터 추출 및 처리 | 피그마 디자인, 서비스 구현 및 개발 | PPT 작성, 서비스 구현 및 개발 |
 |[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/yujiseon-git)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/whathefu)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sanghyeom)|
 
