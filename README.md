@@ -1,2 +1,0 @@
-# LGSW-DZ_Project
-
