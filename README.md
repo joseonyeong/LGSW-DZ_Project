@@ -49,7 +49,7 @@ LG U+ WHY NOT SW CAMP 6기
 
 ### 🧰 ETC : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
-## 프로젝트 개요
+## 프로젝트 기획 방향
 <details>
 <summary> <b>프로젝트 목적</summary>
 <br/>
@@ -117,7 +117,7 @@ ex) 네이버 스토어, 인스타 스토어 등
 </details>
 
 <details>
-<summary> 플랫폼 타겟층</summary>
+<summary> 프로젝트 수행 방향</summary>
 <br/>
 1. 플랫폼 연동
 <br/>
