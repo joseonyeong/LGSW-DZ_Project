@@ -92,6 +92,7 @@ LG U+ WHY NOT SW CAMP 6기
 <summary> <b>핵심기능 설명</b></summary>
 <br/>
 <b>[기능 1] </b>
+<br/>
 사용자가 사용하는 모든 플랫폼에서
 어떤 제품이 잘 팔리는 지, 어떤 후기가 많은 지 등을 분석해준다.
 <br/>
@@ -166,15 +167,18 @@ ex) 네이버 스토어, 인스타 스토어 등
 <br/>
 - API을 활용한 자영업자 플랫폼 연동
 <br/>
+<br/>
 2. 플랫폼 간 성과 비교 제공
 <br/>
 - 카카오, 네이버, Meta API 및 Python을 활용한 데이터 분석
 <br/>
 - Word Cloud, Matplotlib, Seaborn 라이브러리를 활용한 시각화 자료 제공
 <br/>
+<br/>
 3. 플랫폼 홍보용 메시지 제공
 <br/>
 - Open AI 및 MySQL를 활용한 홍보용 메시지 제공
+<br/>
 <br/>
 4. 인터페이스 설계
 <br/>
