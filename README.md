@@ -88,7 +88,7 @@ LG U+ WHY NOT SW CAMP 6기
 <br/>
 <br/>
 <img src="https://github.com/user-attachments/assets/99d51410-9fc1-4c97-9cdc-dddea4c74bc8" alt="[출처: 자영업자 현황]">
-자영업자 현황 : https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=2779
+자영업자 현황 : https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=2779 
 </details>
 
 
