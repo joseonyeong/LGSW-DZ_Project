@@ -52,31 +52,28 @@ LG U+ WHY NOT SW CAMP 6기
 ## 프로젝트 개요
 <details>
 <summary>프로젝트 목적</summary>
-
 온라인에서 다양한 플랫폼(네이버 스토어, 인스타그램 등)을 운영하는 개인 자영업자를 대상으로, 각 플랫폼별 성과를 분석하고, 고객 반응에 기반한 마케팅 문구를 자동 추천 및 카카오톡으로 발송할 수 있는 플랫폼을 구축한다.
 사용자는 플랫폼 가입 시 자신의 채널(스토어) 정보를 등록하며, 이에 따라 플랫폼은 홍보 메시지 추천, 발송, 반응 분석까지 자동화한다.
 추가 정보 등록은 개인 정보 수정에서 추가할 수 있다.
-
 </details>
+
 
 <details>
 <summary>프로젝트 기대효과</summary>
-
-
 - 문구 추천 기능으로 마케팅 성과 개선
 - 플랫폼 운영에 익숙하지 않은 자영업자도 쉽게 마케팅을 활용할 수 있다.
 - 자영업자는 해당 플랫폼의 전략 구축이 가능하다.
 ![Image](https://github.com/user-attachments/assets/738e418b-bd45-4ba6-8641-4d9c5e14fd83)
-
 </details>
 
+
+<details>
 <summary>플랫폼 타겟층</summary>
-
-
 - 플랫폼을 운영 중인 자영업자
    (자영업자를 타겟으로 한 해당 서비스는 매년 증가하는 자영업자 수를 대상으로 기획했다.)
 ![Image](https://github.com/user-attachments/assets/99d51410-9fc1-4c97-9cdc-dddea4c74bc8)
-
 </details>
+
+
 
 ## 소감 
