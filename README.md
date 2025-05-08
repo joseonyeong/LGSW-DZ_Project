@@ -19,7 +19,7 @@
 |------|----|----|----|
 |테스트1|테스트2|테스트3|테스트3|
 | DB ERD 서비스 플로우, 산출물 관리 | 발표 자료 제작, 데이터 추출 및 처리 | 피그마 디자인, 서비스 구현 및 개발 | PPT 작성, 서비스 구현 및 개발 |
-|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong/LGSW-DZ_Project)|테스트2|테스트3|테스트3|
+|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/yujiseon-git)|테스트3|테스트3|
 
 ## 🛠 Tech Stack
 
