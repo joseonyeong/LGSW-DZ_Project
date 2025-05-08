@@ -19,7 +19,7 @@
 |------|----|----|----|
 |테스트1|테스트2|테스트3|테스트3|
 | DB ERD 서비스 플로우, 산출물 관리 | 발표 자료 제작, 데이터 추출 및 처리 | 피그마 디자인, 서비스 구현 및 개발 | PPT 작성, 서비스 구현 및 개발 |
-|[GitHub Repository](https://github.com/joseonyeong/LGSW-DZ_Project)|테스트2|테스트3|테스트3|
+|[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong/LGSW-DZ_Project)|테스트2|테스트3|테스트3|
 
 ## 🛠 Tech Stack
 
@@ -27,10 +27,24 @@
 
 ### 🖥 Backend : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 🔗 API :<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/><img src="https://img.shields.io/badge/Kakao_API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000"/><img src="https://img.shields.io/badge/Naver_API-03C75A?style=for-the-badge&logo=naver&logoColor=white"/><img src="https://img.shields.io/badge/Meta_Graph_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+### 🔗 API : <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/><img src="https://img.shields.io/badge/Kakao_API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000"/><img src="https://img.shields.io/badge/Naver_API-03C75A?style=for-the-badge&logo=naver&logoColor=white"/><img src="https://img.shields.io/badge/Meta_Graph_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 
 ### 🗄 Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 🧰 ETC : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
+## 프로젝트 소개
+<details>
+<summary>클릭해서 자세히 보기</summary>
+
+이 안에 들어간 내용은 접혀 있다가 펼쳐집니다.
+
+- 리스트도 되고
+- 코드도 되고
+- 배지도 넣을 수 있어요.
+
+</details>
+
+
 
 ## 소감 
