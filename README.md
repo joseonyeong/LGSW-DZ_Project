@@ -18,8 +18,8 @@
 |조선영|유지선|이찬웅|윤상현|
 |------|----|----|----|
 |테스트1|테스트2|테스트3|테스트3|
-|테스트1|테스트2|테스트3|테스트3|
-|테스트1|테스트2|테스트3|테스트3|
+| DB ERD 서비스 플로우, 산출물 관리 | 발표 자료 제작, 데이터 추출 및 처리 | 피그마 디자인, 서비스 구현 및 개발 | PPT 작성, 서비스 구현 및 개발 |
+|[GitHub Repository](https://github.com/joseonyeong/LGSW-DZ_Project)|테스트2|테스트3|테스트3|
 
 ## 🛠 Tech Stack
 
@@ -32,8 +32,5 @@
 ### 🗄 Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 🧰 ETC : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
-## Tools
-
 
 ## 소감 
