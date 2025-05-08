@@ -75,7 +75,7 @@ LG U+ WHY NOT SW CAMP 6기
 
 
 <details>
-<summary> 플랫폼 타겟층</summary>
+<summary> <b>플랫폼 타겟층</b></summary>
 <br/>
 - 플랫폼을 운영 중인 자영업자
    (자영업자를 타겟으로 한 해당 서비스는 매년 증가하는 자영업자 수를 대상으로 기획했다.)
@@ -120,6 +120,13 @@ ex) 네이버 스토어, 인스타 스토어 등
 
 <img src="https://github.com/user-attachments/assets/435f0fa1-72e4-487f-903a-f15c2090d5c0" alt="[회원가입]">
 </details>
+
+<details>
+<summary> <b>서비스흐름도</b></summary>
+<br/>
+<img src="https://github.com/user-attachments/assets/a2b39bf7-a7d6-4a26-b2fd-bb8d90db42c2" alt="[서비스 흐름도]">
+</details>
+
 
 <details>
 <summary> <b>DB - ERD </b></summary>
