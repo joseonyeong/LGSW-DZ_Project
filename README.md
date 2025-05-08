@@ -23,27 +23,15 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+### 💻 Frontend : <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-### 🖥 Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### 🖥 Backend : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 🔗 API
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kakao_API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Naver_API-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Meta_Graph_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+### 🔗 API :<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/><img src="https://img.shields.io/badge/Kakao_API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000"/><img src="https://img.shields.io/badge/Naver_API-03C75A?style=for-the-badge&logo=naver&logoColor=white"/><img src="https://img.shields.io/badge/Meta_Graph_API-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 
-### 🗄 Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 🗄 Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🧰 ETC
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+### 🧰 ETC : <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 ## Tools
 
