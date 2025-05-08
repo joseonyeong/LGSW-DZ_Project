@@ -61,8 +61,11 @@ LG U+ WHY NOT SW CAMP 6기
 <details>
 <summary>프로젝트 기대효과</summary>
 - 문구 추천 기능으로 마케팅 성과 개선
+ <br/>
 - 플랫폼 운영에 익숙하지 않은 자영업자도 쉽게 마케팅을 활용할 수 있다.
+ <br/>
 - 자영업자는 해당 플랫폼의 전략 구축이 가능하다.
+ <br/>
 <img src="https://github.com/user-attachments/assets/738e418b-bd45-4ba6-8641-4d9c5e14fd83" alt="[출처: 지표누리 e-나라지표]">
 소상공인 시장 경기동향 : https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1199
 </details>
@@ -72,6 +75,7 @@ LG U+ WHY NOT SW CAMP 6기
 <summary>플랫폼 타겟층</summary>
 - 플랫폼을 운영 중인 자영업자
    (자영업자를 타겟으로 한 해당 서비스는 매년 증가하는 자영업자 수를 대상으로 기획했다.)
+<br/>
 <img src="https://github.com/user-attachments/assets/99d51410-9fc1-4c97-9cdc-dddea4c74bc8" alt="[출처: 자영업자 현황]">
 자영업자 현황 : https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=2779
 </details>
