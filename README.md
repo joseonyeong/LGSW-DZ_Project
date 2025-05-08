@@ -116,5 +116,29 @@ ex) 네이버에선 이 제품이 잘 팔리고 이 연령대가 많다.
 ex) 네이버 스토어, 인스타 스토어 등
 </details>
 
+<details>
+<summary> 플랫폼 타겟층</summary>
+<br/>
+1. 플랫폼 연동
+<br/>
+- API을 활용한 자영업자 플랫폼 연동
+<br/>
+2. 플랫폼 간 성과 비교 제공
+<br/>
+- 카카오, 네이버, Meta API 및 Python을 활용한 데이터 분석
+<br/>
+- Word Cloud, Matplotlib, Seaborn 라이브러리를 활용한 시각화 자료 제공
+<br/>
+3. 플랫폼 홍보용 메시지 제공
+<br/>
+- Open AI 및 MySQL를 활용한 홍보용 메시지 제공
+<br/>
+4. 인터페이스 설계
+<br/>
+- Flask, React, Figma를 활용한 앱 기반 인터페이스 제작
+<br/>
+- Python, MySQL를 이용한 안정적이고 효율적인 서버 개발
+</details>
+
 
 ## 소감 
