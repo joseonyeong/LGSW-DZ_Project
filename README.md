@@ -97,6 +97,8 @@ LG U+ WHY NOT SW CAMP 6기
 <br/>
 ex) 네이버에선 이 제품이 잘 팔리고 이 연령대가 많다.
 인스타에선 다른 제품이 잘 팔리고 이 연령대가 많다.
+<img src="https://github.com/user-attachments/assets/e11662aa-8645-413f-90d2-891546ebd354" alt="[대시보드]">
+
 <br/>
 <br/>
 기능 2 : 
@@ -107,6 +109,7 @@ ex) 네이버에선 이 제품이 잘 팔리고 이 연령대가 많다.
 추천 문구는 실시간 반응 분석(클릭률, 구매 전환 등)을 기반으로 지속 개선.
 <br/>
 인스타의 경우 제품을 찾기 어려우니, 제품의 경우 제품 링크 넣어 제공.
+<img src="https://github.com/user-attachments/assets/41dcfd6e-5bcf-487c-b818-b5797c8b0a8d" alt="[메세지창]">
 <br/>
 <br/>
 기능 3
@@ -114,6 +117,8 @@ ex) 네이버에선 이 제품이 잘 팔리고 이 연령대가 많다.
 회원가입 시 사업자 등록증 받아서 실질적인 사업이 이루어지는지 확인한다.
 <br/>
 ex) 네이버 스토어, 인스타 스토어 등
+
+<img src="https://github.com/user-attachments/assets/435f0fa1-72e4-487f-903a-f15c2090d5c0" alt="[회원가입]">
 </details>
 
 <details>
