@@ -60,7 +60,7 @@ LG U+ WHY NOT SW CAMP 6기
 
 
 <details>
-<summary> 프로젝트 기대효과</summary>
+<summary> <b>프로젝트 기대효과</b></summary>
 <br/>
 - 문구 추천 기능으로 마케팅 성과 개선
  <br/>
@@ -87,7 +87,7 @@ LG U+ WHY NOT SW CAMP 6기
 
 
 <details>
-<summary> 핵심기능 설명</summary>
+<summary> <b>핵심기능 설명</b></summary>
 <br/>
 기능 1 : 
 사용자가 사용하는 모든 플랫폼에서
@@ -122,13 +122,13 @@ ex) 네이버 스토어, 인스타 스토어 등
 </details>
 
 <details>
-<summary> DB - ERD </summary>
+<summary> <b>DB - ERD </b></summary>
 <br/>
 <img src="https://github.com/user-attachments/assets/92563603-f362-40bd-a03a-5b6edea600a6" alt="[출처: ERD]">
 </details>
 
 <details>
-<summary> 프로젝트 수행 방향</summary>
+<summary> <b>프로젝트 수행 방향</b></summary>
 <br/>
 1. 플랫폼 연동
 <br/>
@@ -149,13 +149,6 @@ ex) 네이버 스토어, 인스타 스토어 등
 - Flask, React, Figma를 활용한 앱 기반 인터페이스 제작
 <br/>
 - Python, MySQL를 이용한 안정적이고 효율적인 서버 개발
-</details>
-
-
-<details>
-<summary> DB - ERD </summary>
-<br/>
-<img src="https://github.com/user-attachments/assets/92563603-f362-40bd-a03a-5b6edea600a6" alt="[출처: ERD]">
 </details>
 
 
