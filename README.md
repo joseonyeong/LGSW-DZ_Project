@@ -27,7 +27,7 @@ LG U+ WHY NOT SW CAMP 6기
 
 |조선영|유지선|이찬웅|윤상현|
 |------|----|----|----|
-|<img src="https://github.com/user-attachments/assets/cd76087e-744a-4e2a-9da6-0ea18bd19ea3" width="110" height="120"/>|<img src="https://github.com/user-attachments/assets/4f3faf7b-1ece-4530-ba56-0d1de09548e8" width="110" height="120"/>|<img src="https://github.com/user-attachments/assets/5efe095c-f5fe-45c2-88a9-2e610258a216" width="110" height="120"/>|<img src="https://github.com/user-attachments/assets/700d5ad5-b8c0-464a-95dc-ac9e27ff917a" width="110" height="120"/>|
+|<img src="https://github.com/user-attachments/assets/cd76087e-744a-4e2a-9da6-0ea18bd19ea3" width="120" height="130"/>|<img src="https://github.com/user-attachments/assets/4f3faf7b-1ece-4530-ba56-0d1de09548e8" width="120" height="130"/>|<img src="https://github.com/user-attachments/assets/5efe095c-f5fe-45c2-88a9-2e610258a216" width="120" height="130"/>|<img src="https://github.com/user-attachments/assets/700d5ad5-b8c0-464a-95dc-ac9e27ff917a" width="120" height="130"/>|
 | DB ERD 서비스 플로우, 산출물 관리 | 피그마 디자인, 서비스 구현 및 개발 | 발표 자료 제작, 데이터 추출 및 처리 | PPT 작성, 서비스 구현 및 개발 |
 |[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/joseonyeong)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/yujiseon-git)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/whathefu)|[<img src="https://img.shields.io/badge/GitHub_link-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sanghyeom)|
 
